@@ -1,0 +1,14 @@
+
+*.mdb
+
+*.dll
+
+*.nupkg
+
+edparry.com/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+
+edparry.com/obj/Debug/edparry.com.csproj.FilesWrittenAbsolute.txt
+
+*.xdt
+
+*.xml
