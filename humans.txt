@@ -1,0 +1,20 @@
+Oh, hey there - fellow geek!
+
+Thought you'd come back stage and see how this puppy runs, huh? 
+Well I hate to disapoint, but it doesn't get much simpler than this. 
+There's no magic, no server-side processing or Javascript wizardry.
+Just plain old HTML with a little bit of CSS. Not even the fancy Sass kind, either.
+
+Because I'm a big advocate of less is more. I'm not going to host this on a powerful
+load-balanced server running the might of .NET 4.5 to do nothing more than serve up
+24 words and 26 lines of HTML. That would be a waste of my time, be difficult to 
+maintain and would end up costing more. That doesn't sound like fun, so here we are.
+
+But thanks anyway for stopping by. Nice to know my indentation is appreciated every
+once in a while. You know what? You should totally @reply me with some sort of 
+secret hashtag, so that I know you were here and you know you're part of an super
+secret (and awesome) club.
+
+What's the hashtag?
+
+Ah. Now that would be telling.
